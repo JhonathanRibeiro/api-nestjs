@@ -76,12 +76,18 @@ Nest is [MIT licensed](LICENSE).
 
 Créditos a [Iago Maia Silva](https://medium.com/@iago.maiasilva)
 
-[Parte 1: Criando nosso primeiro endpoint](https://medium.com/@iago.maiasilva/construindo-uma-api-com-nestjs-postgresql-e-docker-parte-1-criando-nosso-primeiro-endpoint-248d4b8ecc9c)
-[Parte 2: Adicionando Autenticação e Autorização](https://medium.com/@iago.maiasilva/construindo-uma-api-com-nestjs-postgresql-e-docker-parte-2-autentica%C3%A7%C3%A3o-e-autoriza%C3%A7%C3%A3o-697f77afcc16)
-[Parte 3: Finalizando nosso CRUD de usuários](https://medium.com/@iago.maiasilva/construindo-uma-api-com-nestjs-postgresql-e-docker-parte-3-finalizando-nosso-crud-de-usu%C3%A1rios-bc056a7e049f)
-[Parte 4: Adicionando logs à nossa aplicação](https://medium.com/@iago.maiasilva/construindo-uma-api-com-nestjs-postgresql-e-docker-parte-4-adicionando-logs-%C3%A0-nossa-aplica%C3%A7%C3%A3o-576ce4f9cc52)
-[Parte 5: Enviando emails de confirmação e recuperação de senha](https://medium.com/@iago.maiasilva/construindo-uma-api-com-nestjs-postgresql-e-docker-parte-5-enviando-emails-de-confirma%C3%A7%C3%A3o-e-54cb977c3fad)
-[Parte 6: Escrevendo testes](https://medium.com/@iago.maiasilva/construindo-uma-api-com-nestjs-postgresql-e-docker-parte-6-escrevendo-testes-ee23ca05f918)
-[Parte 7: Deploy!](https://medium.com/@iago.maiasilva/construindo-uma-api-com-nestjs-postgresql-e-docker-parte-7-deploy-2dab71caa0c7)
+- [Parte 1: Criando nosso primeiro endpoint](https://medium.com/@iago.maiasilva/construindo-uma-api-com-nestjs-postgresql-e-docker-parte-1-criando-nosso-primeiro-endpoint-248d4b8ecc9c)
+
+- [Parte 2: Adicionando Autenticação e Autorização](https://medium.com/@iago.maiasilva/construindo-uma-api-com-nestjs-postgresql-e-docker-parte-2-autentica%C3%A7%C3%A3o-e-autoriza%C3%A7%C3%A3o-697f77afcc16)
+
+- [Parte 3: Finalizando nosso CRUD de usuários](https://medium.com/@iago.maiasilva/construindo-uma-api-com-nestjs-postgresql-e-docker-parte-3-finalizando-nosso-crud-de-usu%C3%A1rios-bc056a7e049f)
+
+- [Parte 4: Adicionando logs à nossa aplicação](https://medium.com/@iago.maiasilva/construindo-uma-api-com-nestjs-postgresql-e-docker-parte-4-adicionando-logs-%C3%A0-nossa-aplica%C3%A7%C3%A3o-576ce4f9cc52)
+
+- [Parte 5: Enviando emails de confirmação e recuperação de senha](https://medium.com/@iago.maiasilva/construindo-uma-api-com-nestjs-postgresql-e-docker-parte-5-enviando-emails-de-confirma%C3%A7%C3%A3o-e-54cb977c3fad)
+
+- [Parte 6: Escrevendo testes](https://medium.com/@iago.maiasilva/construindo-uma-api-com-nestjs-postgresql-e-docker-parte-6-escrevendo-testes-ee23ca05f918)
+
+- [Parte 7: Deploy!](https://medium.com/@iago.maiasilva/construindo-uma-api-com-nestjs-postgresql-e-docker-parte-7-deploy-2dab71caa0c7)
 
 
